@@ -65,7 +65,8 @@ comment:  This document provides a brief introduction to research data managemen
 
 ### Orientation
 
-<img src="/DMP/images/dmp-image.png">
+
+<img src="/images/dmp-image.png">
 
 ### Limitations
 
