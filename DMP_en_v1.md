@@ -79,7 +79,7 @@ We assume that you are familiar with…
 {{1}}
 ***********
 
-<img src="/DMP/images/rdm-lifecycle.png" alt="infrastructure" width="200" align="right">
+<img src="/images/rdm-lifecycle.png" alt="infrastructure" width="200" align="right">
 
 >You can find some examples of learning resources on RDM basics here:
 >
@@ -103,7 +103,7 @@ We assume that you are familiar with…
 
 ## DMP Statements
 
-<img src="/DMP/images/dmp-image.png">
+<img src="/images/dmp-image.png">
 
 
 ### Statement 1
@@ -164,7 +164,7 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 ## What is a DMP? Function & Content
 
-<img src="/DMP/images/dmp-image.png">
+<img src="/images/dmp-image.png">
 
 ### Administrative Data
 
@@ -317,24 +317,24 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 ***********
 **Budget: What does RDM cost?**
 
-<img src="/DMP/images/budgeting.png" alt="infrastructure" width="200" align="right">
+<img src="/images/budgeting.png" alt="infrastructure" width="200" align="right">
 
 
-<img src="/DMP/images/ressources.png" alt="infrastructure" width="200" align="right">
+<img src="/images/ressources.png" alt="infrastructure" width="200" align="right">
 
 ***********
 
 ## Who? RDM roles
 
-<img src="/DMP/images/dmp-image.png">
+<img src="/images/dmp-image.png">
 
-<img src="/DMP/images/dmp-roles.png" alt="infrastructure" width="200" align="right">
+<img src="/images/dmp-roles.png" alt="infrastructure" width="200" align="right">
 
-<img src="/DMP/images/nfdi.png" alt="infrastructure" width="200" align="right">
+<img src="/images/nfdi.png" alt="infrastructure" width="200" align="right">
 
 ## Why? Guidelines & requirements
 
-<img src="/DMP/images/dmp-image.png">
+<img src="/images/dmp-image.png">
 
 BMBF: Individual Funding Criteria EC: Aktionsplan FD german only
 
@@ -393,7 +393,7 @@ EC: Open Research Europe. Data Guidelines
 
 ### FAIR Principles
 
-<img src="/DMP/images/fair.png">
+<img src="/images/fair.png">
 
 FAIR concentrates on how to prepare data in a sustainable way that it can be found and used by others. 
 
@@ -413,7 +413,7 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 
 ## How? Templates & Tools
 
-<img src="/DMP/images/dmp-image.png">
+<img src="/images/dmp-image.png">
 
 ### DMP templates
 
@@ -451,7 +451,7 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 
 **Based on the Research Data Lifecycle**
 
-<img src="/DMP/images/rdm-lifecycle.png" alt="infrastructure" width="200" align="right">
+<img src="/images/rdm-lifecycle.png" alt="infrastructure" width="200" align="right">
 
 * DFG Checklist
 
@@ -463,7 +463,7 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 ***********
 **Based on the FAIR-Principles**
 
-<img src="/DMP/images/fair.png" alt="infrastructure" width="200" align="right">
+<img src="/images/fair.png" alt="infrastructure" width="200" align="right">
 
 * EU Horizon Europe-Template
 
@@ -472,21 +472,21 @@ FAIR-checklist: Jones, Sarah, & Grootveld, Marjan. (2017, November). How FAIR ar
 {{5}}
 ***********
 
-<img src="/DMP/images/cau-template.png" alt="infrastructure" width="200" align="right">
+<img src="/images/cau-template.png" alt="infrastructure" width="200" align="right">
 
 ***********
 
 {{6}}
 ***********
 
-<img src="/DMP/images/science-europe.jpg" alt="infrastructure" width="200" align="right">
+<img src="/images/science-europe.jpg" alt="infrastructure" width="200" align="right">
 
 ***********
 
 {{7}}
 ***********
 
-<img src="/DMP/images/horizon-europe.png" alt="infrastructure" width="200" align="right">
+<img src="/images/horizon-europe.png" alt="infrastructure" width="200" align="right">
 
 ***********
 
@@ -538,7 +538,7 @@ ARGOS
 {{0}}
 ***********
 
-<img src="/DMP/images/dmp-image.png">
+<img src="/images/dmp-image.png">
 
 ***********
 
@@ -586,7 +586,7 @@ ARGOS
 {{1}}
 ***********
 
-<img src="/DMP/images/cau-services.png" alt="infrastructure" width="200" align="right">
+<img src="/images/cau-services.png" alt="infrastructure" width="200" align="right">
 
 ***********
 
@@ -594,7 +594,7 @@ ARGOS
 ***********
 **Consultation**
 
-<img src="/DMP/images/consultation.png" alt="infrastructure" width="200" align="right">
+<img src="/images/consultation.png" alt="infrastructure" width="200" align="right">
 
 * proposal consulting
 
@@ -614,7 +614,7 @@ ARGOS
 ***********
 **Training & Teaching support**
 
-<img src="/DMP/images/training.png" alt="infrastructure" width="200" align="right">
+<img src="/images/training.png" alt="infrastructure" width="200" align="right">
 
 * workshops
 
@@ -633,7 +633,7 @@ ARGOS
 ***********
 **RDM Infrastructure**
 
-<img src="/DMP/images/infrastructure.png" alt="infrastructure" width="200" align="right">
+<img src="/images/infrastructure.png" alt="infrastructure" width="200" align="right">
 
 * RDM services
 
@@ -647,7 +647,7 @@ ARGOS
 ***********
 **Networking**
 
-<img src="/DMP/images/network.png" alt="networking" width="200" align="right">
+<img src="/images/network.png" alt="networking" width="200" align="right">
 
 * local networking at CAU via AG FDM
 
@@ -663,7 +663,7 @@ ARGOS
 ***********
 **Contact**
 
-<img src="/DMP/images/team.png" alt="team" width="200" align="right">
+<img src="/images/team.png" alt="team" width="200" align="right">
 
 Feel free to contact us:
 
