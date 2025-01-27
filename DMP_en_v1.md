@@ -10,7 +10,7 @@ language: en
 
 narrator: UK English Female
 
-icon:     images/cau-norm-de-lilagrey-rgb-0720_2022.png
+icon:     images/cau-norm-en-lilagrey-rgb.png
 
 link: https://raw.githubusercontent.com/RDM4CAU/Intro-to-RDM/refs/heads/main/cau-style.css
 
