@@ -168,7 +168,7 @@ DFG form 54.01 EN: https://www.dfg.de/formulare/54_01/54_01_en.pdf
 
 ### Administrative Data
 
-<img src="DMP/images/dmp-content.png" alt="infrastructure" width="200" align="right">
+<img src="/images/dmp-content.png" alt="infrastructure" width="200" align="right">
 
 {{1}}
 ***********
